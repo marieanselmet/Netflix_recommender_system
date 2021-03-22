@@ -75,6 +75,6 @@ Script which computes the predictions of the blending of our 5 best-performing m
 
 
 
-
-The complete description of the project and the interpretation and discussion of the results can be found in the file named ```report.pdf```.
+### ```report.pdf```
+The complete description of the project and the interpretation and discussion of the results can be found in this file.
 
