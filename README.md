@@ -73,3 +73,8 @@ Script to produce the same .csv predictions used in the best submission on the K
 
 Script which computes the predictions of the blending of our 5 best-performing models
 
+
+
+
+The complete description of the project and the interpretation and discussion of the results can be found in the file named ```report.pdf```.
+
